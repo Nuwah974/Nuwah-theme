@@ -214,6 +214,51 @@
             "required": false,
             "value": false,
             "selected": false
+        },
+        {
+            "id": "string",
+            "type": "string",
+            "format": "text",
+            "label": "String",
+            "description": null,
+            "labelHTML": null,
+            "placeholder": "Placeholder text ..",
+            "icon": "sicon-format-text-alt",
+            "value": null,
+            "multilanguage": false,
+            "required": false,
+            "minLength": 6,
+            "maxLength": 30
+        },
+        {
+            "id": "string_1",
+            "type": "string",
+            "format": "text",
+            "label": "String 1",
+            "description": null,
+            "labelHTML": null,
+            "placeholder": "Placeholder text ..",
+            "icon": "sicon-format-text-alt",
+            "value": null,
+            "multilanguage": false,
+            "required": false,
+            "minLength": 6,
+            "maxLength": 30
+        },
+        {
+            "id": "string_2",
+            "type": "string",
+            "format": "text",
+            "label": "String 2",
+            "description": null,
+            "labelHTML": null,
+            "placeholder": "Placeholder text ..",
+            "icon": "sicon-format-text-alt",
+            "value": null,
+            "multilanguage": false,
+            "required": false,
+            "minLength": 6,
+            "maxLength": 30
         }
     ],
     "components": [
